@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714395050013,
+      "tag": "0000_lethal_jubilee",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1714399023710,
+      "tag": "0001_abnormal_captain_america",
+      "breakpoints": true
+    }
+  ]
+}
